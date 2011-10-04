@@ -1,0 +1,9 @@
+JSON_T_ARRAY_BEGIN      Symbolic constants identifying the type of a
+                        JSON value.
+asJSVars                Serialize R objects as Javsscript/ActionScript
+                        variables
+basicJSONHandler        Create handler for processing JSON elements
+                        from a parser
+fromJSON                Convert JSON content to R objects
+toJSON                  Convert an R object to a string in Javascript
+                        Object Notation
